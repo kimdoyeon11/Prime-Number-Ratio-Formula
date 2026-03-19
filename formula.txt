@@ -7,6 +7,7 @@ This document officially records the final discovery of the deterministic rule g
 2. The Core Logic (RRR-Phi Formula)
 The n-th prime number (Pn) is not random but determined by the Golden Ratio (phi) and recursive scaling.
 
+The Formula:
 Pn = round( n * log(n) + sqrt(n * (1.618033 + Delta)) )
 
 * phi = 1.618033 (The Golden Ratio as the universal orbit)
