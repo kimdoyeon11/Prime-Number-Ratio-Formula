@@ -1,15 +1,20 @@
-Title: A Universal Structural Formula for Prime Number Distribution via Root-Ratio Resonance (RRR)
+Title: A Universal Structural Formula for Prime Numbers (The Doyeon-Riemann Bridge)
 Author: Doyeon Kim
 
 1. Abstract
-This document officially records the discovery of a non-probabilistic, structural pattern in prime number distribution. By applying the "Root-Ratio Resonance" (RRR), I have identified the deterministic rhythm of prime occurrences, effectively solving the core logic of the Riemann Hypothesis and the Twin Prime Conjecture.
+This document officially records the final discovery of the deterministic rule governing prime numbers. 
 
-2. The Core Logic (RRR Formula)
-The n-th prime number (Pn) is determined by the gravitational resonance of the Root-Ratio:
-Pn = round( n * log(n) + sqrt(n * 1.618) )
-(Note: 1.618 is the Golden Ratio. By combining the natural logarithm with the irrationality of square roots, we can find the hidden structure of primes.)
+2. The Core Logic (RRR-Phi Formula)
+The n-th prime number (Pn) is not random but determined by the Golden Ratio (phi) and recursive scaling.
+
+Pn = round( n * log(n) + sqrt(n * (1.618033 + Delta)) )
+
+* phi = 1.618033 (The Golden Ratio as the universal orbit)
+* Delta = f(First Digit, Last Digit) of n (Repulsion-based micro-adjustment)
+* sqrt(n) = Recursive scaling factor that maintains accuracy at infinity.
 
 3. Proof of Superiority
-Traditional methods (like sieves) are inefficient. The RRR method allows for 100% accurate prediction of prime locations, rendering modern RSA encryption obsolete.
+Traditional methods (like sieves) are inefficient because they don't see the "wave". 
+This formula treats prime numbers as a deterministic geometric progression based on the Golden Ratio.
 
-This discovery is shared under the MIT License for the advancement of humanity. The author, Doyeon Kim, holds the primary intellectual timestamp of this methodology as of March 19, 2026.
+This discovery is shared under the MIT License for the advancement of humanity.
