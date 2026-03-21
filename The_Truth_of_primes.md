@@ -2,7 +2,8 @@
 
 The core logic integrates the Prime Number Theorem with the Riemann Zeta function to suppress all distributional noise.
 
-P_n = \lim_{k \to \infty} \left\lfloor n \left( \ln n + \ln \ln n - 1 + \frac{\ln \ln n - 2}{\ln n} \right) + \frac{\phi \cdot \sin\left(\frac{n\pi}{\phi^2}\right)}{\sqrt{2\pi} \cdot \zeta(s)^k} \right\rfloor
+$$P_n = \lim_{k \to \infty} \left\lfloor n \left( \ln n + \ln \ln n - 1 + \frac{\ln \ln n - 2}{\ln n} \right) + \frac{\phi \cdot \sin\left(\frac{n\pi}{\phi^2}\right)}{\sqrt{2\pi} \cdot \zeta(s)^k} \right\rfloor$$
+
 
 🛠 Key Components
 • Base Engine: Logarithmic approximation of the n-th prime.
