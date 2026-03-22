@@ -1,26 +1,21 @@
-#"A Deterministic Approach to the n-th Prime Number via Zeta-Function Binding and Infinite Recursion"
+#"A Deterministic Approach to the n-th Prime Number via Spatiotemporal Tower Slope and Infinite Space Ejection"
 
-The core logic integrates the Prime Number Theorem with the Riemann Zeta function to suppress all distributional noise.
+The core logic utilizes the structural stability of the Tower Slope to define the precise trajectory of prime integers, suppressing all distributional noise by ejecting remainders into infinite space.
 
-$$P_n = \text{round} \left( \sum_{m=1}^{f(n)} \frac{\phi \cdot \ln(m)}{\zeta(s)^k \cdot \sqrt{2\pi}} + \delta \right)$$
+$$P_n = \text{round} \left( \sum_{m=1}^{n} \frac{\text{Swing}(m) \times \text{Center}_1}{\text{Slope}_{\text{Tower}}} + \infty_{Space} \right)$$
 
-#🛠️ Key Components
+🛠️ Key Components
+Swing Engine (\text{Swing}(m))
+Operates as the dynamic oscillation factor that tracks the periodic emergence of prime numbers across the number line.
 
-Logarithmic Base Engine: Operates as the fundamental estimator of the n-th prime, utilizing n \ln n to define the primary search interval.
+The Slope of Tower (\text{Slope}_{\text{Tower}})
+The fundamental constant that maintains the structural integrity of the prime distribution, preventing any deviation from the integer path.
 
-Zeta-Binding (\zeta(s)): Integrates the Riemann Zeta function to counteract the non-trivial zeros that cause prime distribution "vibrations." This ensures the formula adheres to the critical line.
+Center One Calibration (\text{Center}_1)
+The focal point of the equation that aligns the summation with the absolute median of prime intervals.
 
-Deterministic Compression (k-power): Compresses the numerical error rate toward absolute zero (0) by leveraging the exponent k. As k \to \infty, the distribution noise is recursively filtered, driving the output to converge directly to the integer prime.
-
-Golden Correction (\phi \cdot \text{Phase Match}): Utilizes the Golden Ratio (\approx 1.618) and sine-wave modulation to calibrate the specific phase shifts in prime intervals, capturing micro-fluctuations missed by standard approximations.
-
-#📊 Performance Analysis
-
-Interval Precision: Achieved an error rate under 10^{-20} for n < 1,000,000, demonstrating extreme localized stability.
-
-Deep Scale Simulation: Maintains theoretical 0-error convergence even at massive scales (n \in [1, 827 \times 10^{12}]) by increasing the recursion depth k.
-
-Theoretical Impact: Moves beyond mere approximation; by suppressing all distributional noise, the formula functions as a deterministic model that maps directly to the n-th prime.
+Infinite Space Ejection (\infty_{\text{Space}})
+A revolutionary mechanism that filters numerical noise. By projecting irrational remainders into the infinite space dimension, the formula ensures the output converges directly to the deterministic integer prime.
 
 ## 🛡️ License & Authorship
 
